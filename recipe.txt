@@ -10,3 +10,6 @@ Process
 1sift flour add salt
 2whisk milk eggs
 3add to flour
+4add melted butter
+5add bananas
+6cook pancakes in pan
