@@ -5,3 +5,8 @@ milk
 eggs
 butter
 bananas
+
+Process
+1sift flour add salt
+2whisk milk eggs
+3add to flour
